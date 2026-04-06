@@ -8,7 +8,7 @@
 
 | 2D View (Heatmap) | 3D View (Surface Plot) |
 | :---: | :---: |
-| <video src="Turing_LA/Turing2_a02b146.mov" width="100%" autoplay loop muted></video> | <video src="Turing_LA/3DTuring2_a02b146.mov" width="100%" autoplay loop muted></video> |
+| <video src="Turing2_a02b146.mov" width="100%" autoplay loop muted></video> | <video src="3DTuring2_a02b146.mov" width="100%" autoplay loop muted></video> |
 
 ## 💡 概要 (Overview)
 本プログラムは、自然界に見られる動物の模様などを数学的にモデル化した「反応拡散系」の方程式を、C言語を用いて数値計算したものです。計算結果を `png3d.gnu` ファイルを用いて自動的に画像化・動画化するパイプラインまで構築しています。
